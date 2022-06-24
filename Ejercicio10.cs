@@ -16,3 +16,6 @@ namespace EjrecP.C
 
 
             for (int i = 1; i < N; ++i)
+            {
+                Console.WriteLine("{0} al cuadrado es: {1}", i, Math.Pow(i, 2));
+            } // Fin de la instrucción for
